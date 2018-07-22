@@ -1,0 +1,1050 @@
+﻿Log file open, 07/21/18 19:27:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1451722057) SRandInit(-1451722057).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.296994
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.855s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-I6078AQ (192.168.1.191:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.22-02.27.21:999][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-02.27.21:999][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.22-02.27.22:024][  0]LogInit: Computer: DESKTOP-I6078AQ
+[2018.07.22-02.27.22:024][  0]LogInit: User: reth1nk
+[2018.07.22-02.27.22:024][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.22-02.27.22:024][  0]LogInit: High frequency timer resolution =3.328126 MHz
+[2018.07.22-02.27.22:025][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.07.22-02.27.22:025][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.22-02.27.22:025][  0]LogMemory: Process Physical Memory: 274.61 MB used, 274.61 MB peak
+[2018.07.22-02.27.22:025][  0]LogMemory: Process Virtual Memory: 264.80 MB used, 264.80 MB peak
+[2018.07.22-02.27.22:025][  0]LogMemory: Physical Memory: 6300.09 MB used,  26427.59 MB free, 32727.68 MB total
+[2018.07.22-02.27.22:025][  0]LogMemory: Virtual Memory: 4794.15 MB used,  26427.59 MB free, 134217728.00 MB total
+[2018.07.22-02.27.22:174][  0]LogInit: Using OS detected language (en-US).
+[2018.07.22-02.27.22:174][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.22-02.27.22:221][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.22-02.27.22:649][  0]LogStreaming: Display: Took  0.475s to EndInitTextLocalization.
+[2018.07.22-02.27.22:649][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.22-02.27.22:723][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.22-02.27.22:723][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.22-02.27.24:515][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.22-02.27.24:579][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.07.22-02.27.24:579][  0]LogD3D11RHI:       11127/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.22-02.27.24:580][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.22-02.27.24:581][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.22-02.27.24:581][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.22-02.27.24:586][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.22-02.27.24:586][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.22-02.27.24:586][  0]LogWindows: EnumDisplayDevices:
+[2018.07.22-02.27.24:586][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.07.22-02.27.24:586][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.07.22-02.27.24:586][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.07.22-02.27.24:586][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.07.22-02.27.24:586][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.22-02.27.24:586][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.07.22-02.27.24:586][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.22-02.27.24:586][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.22-02.27.24:586][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.07.22-02.27.24:620][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.22-02.27.24:620][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.22-02.27.24:620][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.22-02.27.24:657][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.22-02.27.24:658][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Intermediate/Shaders/WorkingDirectory/17816/).
+[2018.07.22-02.27.24:658][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/reth1nk/AppData/Local/Temp/UnrealShaderWorkingDir/CD46FA72410A4673FD9AB0BBB99E72C7/'.
+[2018.07.22-02.27.25:201][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.22-02.27.25:213][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.22-02.27.25:225][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.22-02.27.25:237][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.22-02.27.25:253][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.22-02.27.25:266][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.22-02.27.25:277][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.22-02.27.25:289][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.22-02.27.25:295][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.22-02.27.25:305][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.22-02.27.25:316][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.22-02.27.25:327][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.22-02.27.25:338][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.22-02.27.25:348][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.22-02.27.25:358][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.22-02.27.25:380][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.22-02.27.25:380][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.22-02.27.25:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.22-02.27.25:397][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.22-02.27.25:454][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.22-02.27.25:466][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.22-02.27.25:476][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.22-02.27.25:488][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.22-02.27.25:501][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.22-02.27.25:515][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.22-02.27.25:516][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.22-02.27.25:810][  0]LogXGEController: Cleaning working directory: C:/Users/reth1nk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.22-02.27.25:810][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.22-02.27.25:810][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.22-02.27.25:810][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.22-02.27.27:203][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.22-02.27.27:271][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/reth1nk/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-02.27.27:271][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/reth1nk/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.22-02.27.27:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.22-02.27.27:271][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.22-02.27.27:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.22-02.27.27:272][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.22-02.27.27:290][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.22-02.27.27:302][  0]LogDerivedDataCache: Using Local data cache path C:/Users/reth1nk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.22-02.27.27:302][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.22-02.27.27:302][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.22-02.27.27:312][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.22-02.27.27:313][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.22-02.27.27:324][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-02.27.27:324][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-02.27.29:358][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.07.22-02.27.29:631][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-02.27.29:868][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.22-02.27.29:870][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.22-02.27.29:870][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.22-02.27.29:870][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.22-02.27.29:870][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.22-02.27.29:870][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.22-02.27.29:918][  0]LogNetVersion: Pinball , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3476590221)
+[2018.07.22-02.27.30:789][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.081744 seconds
+[2018.07.22-02.27.30:794][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.22-02.27.30:794][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.22-02.27.30:794][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.22-02.27.34:009][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.22-02.27.34:033][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.22-02.27.34:346][  0]SourceControl: Source control is disabled
+[2018.07.22-02.27.34:346][  0]SourceControl: Source control is disabled
+[2018.07.22-02.27.34:360][  0]SourceControl: Source control is disabled
+[2018.07.22-02.27.34:373][  0]SourceControl: Source control is disabled
+[2018.07.22-02.27.34:781][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.22-02.27.34:973][  0]LogOcInput: OculusInput pre-init called
+[2018.07.22-02.27.35:082][  0]LogEngine: Initializing Engine...
+[2018.07.22-02.27.35:083][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.22-02.27.35:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-02.27.35:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-02.27.35:415][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.22-02.27.35:452][  0]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.27.35:468][  0]LogInit: FAudioDevice initialized.
+[2018.07.22-02.27.35:562][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/reth1nk/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-02.27.35:574][  0]LogInit: Texture streaming: Enabled
+[2018.07.22-02.27.35:588][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.22-02.27.35:602][  0]LogInit: Transaction tracking system initialized
+[2018.07.22-02.27.35:625][  0]BlueprintLog: New page: Editor Load
+[2018.07.22-02.27.35:691][  0]LocalizationService: Localization service is disabled
+[2018.07.22-02.27.35:803][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b98d41960, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.07.22-02.27.35:805][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b98d41960, Size=88
+[2018.07.22-02.27.35:805][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b98d41960, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.07.22-02.27.35:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b98c5e890, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.07.22-02.27.35:882][  0]LogConsoleResponse: Display: 
+[2018.07.22-02.27.36:197][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.22-02.27.36:197][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.22-02.27.36:197][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.22-02.27.36:197][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-02.27.36:197][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-02.27.36:536][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reth1nk/Documents/Unreal Projects/Pinball/Content/' took 0.01s
+[2018.07.22-02.27.36:536][  0]SourceControl: Source control is disabled
+[2018.07.22-02.27.36:536][  0]Cmd: MAP LOAD FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Maps/PinballDemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.22-02.27.36:536][  0]LightingResults: New page: Lighting Build
+[2018.07.22-02.27.36:538][  0]MapCheck: New page: Map Check
+[2018.07.22-02.27.36:538][  0]LightingResults: New page: Lighting Build
+[2018.07.22-02.27.36:550][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b98d41960, Size=88
+[2018.07.22-02.27.36:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80afeb00, Size=208, Default__BP_Ball_C Function /Game/blueprints/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.07.22-02.27.36:667][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80afeb00, Size=208
+[2018.07.22-02.27.36:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80afeb00, Size=208, Default__BP_Ball_C Function /Engine/Transient.REINST_BP_Ball_C_7:ExecuteUbergraph_BP_Ball
+[2018.07.22-02.27.36:669][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80be3400, Size=368, Default__BP_Ball_C Function /Game/blueprints/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.07.22-02.27.36:715][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80a8b9c0, Size=264, Default__BP_Bumper_C Function /Game/blueprints/BP_Bumper.BP_Bumper_C:ExecuteUbergraph_BP_Bumper
+[2018.07.22-02.27.36:719][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80a8b9c0, Size=264
+[2018.07.22-02.27.36:719][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80a8b9c0, Size=264, Default__BP_Bumper_C Function /Engine/Transient.REINST_BP_Bumper_C_9:ExecuteUbergraph_BP_Bumper
+[2018.07.22-02.27.36:721][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80a8b100, Size=264, Default__BP_Bumper_C Function /Game/blueprints/BP_Bumper.BP_Bumper_C:ExecuteUbergraph_BP_Bumper
+[2018.07.22-02.27.36:753][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80b89e10, Size=8, Default__BP_Flipper_C Function /Game/blueprints/BP_Flipper.BP_Flipper_C:ExecuteUbergraph_BP_Flipper
+[2018.07.22-02.27.36:756][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80b89e10, Size=8
+[2018.07.22-02.27.36:756][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80b89e10, Size=8, Default__BP_Flipper_C Function /Engine/Transient.REINST_BP_Flipper_C_11:ExecuteUbergraph_BP_Flipper
+[2018.07.22-02.27.36:758][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80b899b0, Size=8, Default__BP_Flipper_C Function /Game/blueprints/BP_Flipper.BP_Flipper_C:ExecuteUbergraph_BP_Flipper
+[2018.07.22-02.27.36:764][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b809c3640, Size=164, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.27.36:766][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b809c3640, Size=164
+[2018.07.22-02.27.36:766][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b809c3640, Size=164, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_13:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.27.36:768][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b809c2800, Size=164, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.27.36:958][  0]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.27.36:975][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.22-02.27.36:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80afeb00, Size=208
+[2018.07.22-02.27.36:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80a8b9c0, Size=264
+[2018.07.22-02.27.36:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80b89e10, Size=8
+[2018.07.22-02.27.36:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b809c3640, Size=164
+[2018.07.22-02.27.36:987][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.22-02.27.37:036][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.852ms to complete.
+[2018.07.22-02.27.37:036][  0]LogFileHelpers: Loading map 'PinballDemoMap' took 0.500
+[2018.07.22-02.27.37:197][  0]LogCollectionManager: Loaded 0 collections in 0.001377 seconds
+[2018.07.22-02.27.37:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Collections/' took 0.01s
+[2018.07.22-02.27.37:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Developers/reth1nk/Collections/' took 0.01s
+[2018.07.22-02.27.37:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Collections/' took 0.01s
+[2018.07.22-02.27.37:244][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.22-02.27.37:252][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2452 classes and 558 folders.
+[2018.07.22-02.27.37:258][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-02.27.37:529][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.22-02.27.37:539][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.22-02.27.37:609][  0]LogSlate: Took 0.007252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.22-02.27.37:619][  0]LogSlate: Took 0.004325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.22-02.27.37:627][  0]LogSlate: Took 0.004317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.22-02.27.37:726][  0]LogRenderer: Reallocating scene render targets to support 1588x640 Format 10 NumSamples 1 (Frame:1).
+[2018.07.22-02.27.37:891][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-02.27.37:891][  0]LogLoad: (Engine Initialization) Total time: 19.67 seconds
+[2018.07.22-02.27.37:891][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.22-02.27.37:921][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.22-02.27.37:963][  0]LogSlate: Took 0.012665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.22-02.27.37:992][  1]LogAssetRegistry: Asset discovery search completed in 8.6569 seconds
+[2018.07.22-02.27.37:994][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.22-02.27.37:994][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.07.22-02.27.38:925][ 97]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.22-02.27.44:982][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.27.45:081][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80afb700, Size=376, Default__PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.27.45:085][833]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80afb700, Size=376
+[2018.07.22-02.27.45:085][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b847a5300, Size=376, Default__PinballPlayerController_C Function /Engine/Transient.REINST_PinballPlayerController_C_15:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.27.45:091][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b80638280, Size=368, Default__PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.27.45:375][833]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.07.22-02.27.45:636][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b8f0d1b80, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.22-02.27.45:637][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b8f0d1b78, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.22-02.27.46:283][833]LogSlate: Took 0.004500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.22-02.27.46:405][834]LogSlate: Took 0.003601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.22-02.29.15:647][474]LogRenderer: Reallocating scene render targets to support 1588x768 Format 10 NumSamples 1 (Frame:1).
+[2018.07.22-02.30.46:835][254]BlueprintLog: New page: Compile PinballPlayerController
+[2018.07.22-02.30.46:848][254]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b80638280, Size=368
+[2018.07.22-02.30.46:848][254]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c23055c00, Size=368, PinballPlayerController_C_1 Function /Engine/Transient.REINST_PinballPlayerController_C_31:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.30.46:854][254]LogBlueprint: Error: [Compiler PinballPlayerController] The type of  Object  is undetermined.  Connect something to  Cast To BP_Plunger  to imply a specific type.
+[2018.07.22-02.30.46:854][254]LogBlueprint: Error: [Compiler PinballPlayerController] The type of  Object  is undetermined.  Connect something to  Cast To BP_Plunger  to imply a specific type.
+[2018.07.22-02.30.46:855][254]LogBlueprint: Error: [Compiler PinballPlayerController] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.22-02.30.46:856][254]LogBlueprint: Error: [Compiler PinballPlayerController] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.22-02.30.46:856][254]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bc34ade00, Size=496, Default__PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.30.47:007][254]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b847a5300, Size=376
+[2018.07.22-02.30.47:017][254]LogBlueprint: Warning: [Compiler PinballPlayerController] [0208.80] Compile of PinballPlayerController failed. 4 Fatal Issue(s) 0 Warning(s) [in 181 ms] (/Game/blueprints/PinballPlayerController.PinballPlayerController)
+[2018.07.22-02.33.47:695][215]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2018.07.22-02.33.49:020][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.34.04:625][224]LogEditorViewport: Clicking on Actor (context menu): BP_Plunger_C (BP_Plunger)
+[2018.07.22-02.34.04:655][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-02.34.06:777][478]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2018.07.22-02.34.07:940][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.35.57:065][297]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2742fa88, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.02:534][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2742fa88, Size=4
+[2018.07.22-02.36.02:534][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c1038be10, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_35:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.02:535][947]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c1038a848, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.16:304][541]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c1038a848, Size=4
+[2018.07.22-02.36.16:304][541]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c18261010, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_37:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.16:306][541]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c182600d0, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.32:175][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c182600d0, Size=4
+[2018.07.22-02.36.32:175][434]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bc3242d18, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_39:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.32:177][434]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bc3243a00, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.35:342][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bc3243a00, Size=4
+[2018.07.22-02.36.35:342][808]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c12f376f8, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_41:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.35:343][808]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c12f35940, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.37:705][ 81]LogSlate: Took 0.003987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.22-02.36.59:451][680]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c12f35940, Size=4
+[2018.07.22-02.36.59:451][680]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24377148, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_43:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.36.59:453][680]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24377070, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.06:580][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24377070, Size=4
+[2018.07.22-02.37.06:580][528]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c12f36508, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_45:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.06:582][528]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c12f37018, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.38:120][375]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c23055c00, Size=368
+[2018.07.22-02.37.38:121][375]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PinballDemoMap' took 0.023
+[2018.07.22-02.37.38:123][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/BP_Plunger] ([1] browsable assets)...
+[2018.07.22-02.37.38:137][375]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/BP_Plunger.BP_Plunger]
+[2018.07.22-02.37.38:138][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_Plunger]
+[2018.07.22-02.37.38:179][375]LogSavePackage: Save=22.50ms
+[2018.07.22-02.37.38:180][375]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger_Auto152EF64D1497B8BBDB0DA93B4582BBEB6.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/blueprints/BP_Plunger_Auto1.uasset'
+[2018.07.22-02.37.38:180][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/blueprints/BP_Plunger_Auto1.uasset
+[2018.07.22-02.37.38:181][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/PinballPlayerController] ([1] browsable assets)...
+[2018.07.22-02.37.38:181][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/PinballPlayerController]
+[2018.07.22-02.37.38:223][375]LogSavePackage: Save=28.13ms
+[2018.07.22-02.37.38:223][375]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/PinballPlayerController_Auto167317136464CE7B3E4E76CAE6F474C2B.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/blueprints/PinballPlayerController_Auto1.uasset'
+[2018.07.22-02.37.38:224][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/blueprints/PinballPlayerController_Auto1.uasset
+[2018.07.22-02.37.38:224][375]LogFileHelpers: Auto-saving content packages took 0.103
+[2018.07.22-02.37.38:330][387]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c12f37018, Size=4
+[2018.07.22-02.37.38:330][387]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24376630, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_47:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.38:332][387]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24376840, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.39:792][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24376840, Size=4
+[2018.07.22-02.37.39:792][558]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24376840, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_49:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.39:794][558]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24375488, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.41:881][803]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24375488, Size=4
+[2018.07.22-02.37.41:881][803]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24375488, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_51:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.41:883][803]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24377440, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.44:518][113]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24377440, Size=4
+[2018.07.22-02.37.44:518][113]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24377440, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_53:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.44:520][113]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24377250, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.57:678][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24377250, Size=4
+[2018.07.22-02.37.57:678][585]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c230736a0, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_55:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.37.57:680][585]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c23073578, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.38.40:103][207]BlueprintLog: New page: Compile PinballPlayerController
+[2018.07.22-02.38.40:110][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c23073578, Size=4
+[2018.07.22-02.38.40:111][207]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24377470, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_57:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.38.40:118][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bc34ade00, Size=496
+[2018.07.22-02.38.40:118][207]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bc3c1d600, Size=496, Default__PinballPlayerController_C Function /Engine/Transient.REINST_PinballPlayerController_C_59:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.38.40:125][207]LogBlueprint: Error: [Compiler PinballPlayerController] The type of  Object  is undetermined.  Connect something to  Cast To BP_Plunger  to imply a specific type.
+[2018.07.22-02.38.40:125][207]LogBlueprint: Error: [Compiler PinballPlayerController] The type of  Object  is undetermined.  Connect something to  Cast To BP_Plunger  to imply a specific type.
+[2018.07.22-02.38.40:126][207]LogBlueprint: Error: [Compiler PinballPlayerController] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.22-02.38.40:126][207]LogBlueprint: Error: [Compiler PinballPlayerController] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.22-02.38.40:127][207]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c30f50b80, Size=520, Default__PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.38.40:280][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24377470, Size=4
+[2018.07.22-02.38.40:293][207]LogBlueprint: Warning: [Compiler PinballPlayerController] [0682.08] Compile of PinballPlayerController failed. 4 Fatal Issue(s) 0 Warning(s) [in 189 ms] (/Game/blueprints/PinballPlayerController.PinballPlayerController)
+[2018.07.22-02.38.56:014][ 51]BlueprintLog: New page: Compile PinballPlayerController
+[2018.07.22-02.38.56:031][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c30f50b80, Size=520
+[2018.07.22-02.38.56:031][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c37b07600, Size=520, PinballPlayerController_C_2 Function /Engine/Transient.REINST_PinballPlayerController_C_63:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.38.56:040][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c332c5f80, Size=520, Default__PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.38.56:195][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bc3c1d600, Size=496
+[2018.07.22-02.38.57:021][134]LogSavePackage: Save=33.11ms
+[2018.07.22-02.38.57:021][134]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/PinballPlayerController5F4DC2C240AB96E88788459A2A005596.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/PinballPlayerController.uasset'
+[2018.07.22-02.38.57:026][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/PinballPlayerController.uasset
+[2018.07.22-02.38.59:199][392]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.38.59:220][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.38.59:220][392]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:38:59 PM)
+[2018.07.22-02.38.59:220][392]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.38.59:227][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006574s)
+[2018.07.22-02.38.59:227][392]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.38.59:227][392]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.07.22-02.38.59:228][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.007401s)
+[2018.07.22-02.38.59:247][392]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c37b07600, Size=520
+[2018.07.22-02.38.59:283][392]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.38.59:289][392]LogInit: FAudioDevice initialized.
+[2018.07.22-02.38.59:343][392]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.38.59:345][392]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.38.59
+[2018.07.22-02.38.59:346][392]LogWorld: Bringing up level for play took: 0.001528
+[2018.07.22-02.38.59:351][392]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.22-02.38.59:352][392]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.596
+[2018.07.22-02.39.19:283][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.39.22:716][956]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-02.39.37:112][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c18260bc0, Size=4, Default__SKEL_PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.SKEL_PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.39.46:951][828]BlueprintLog: New page: Compile PinballPlayerController
+[2018.07.22-02.39.46:959][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c18260bc0, Size=4
+[2018.07.22-02.39.46:959][828]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c24376e98, Size=4, Default__SKEL_PinballPlayerController_C Function /Engine/Transient.REINST_SKEL_PinballPlayerController_C_69:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.39.46:968][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c332c5f80, Size=520
+[2018.07.22-02.39.46:968][828]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bb7415d00, Size=520, Default__PinballPlayerController_C Function /Engine/Transient.REINST_PinballPlayerController_C_71:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.39.46:975][828]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2338a700, Size=520, Default__PinballPlayerController_C Function /Game/blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.22-02.39.47:121][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24376e98, Size=4
+[2018.07.22-02.39.47:557][868]LogSavePackage: Save=30.61ms
+[2018.07.22-02.39.47:557][868]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/PinballPlayerController56D842A24C3067C6EAA1D5BB589518DC.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/PinballPlayerController.uasset'
+[2018.07.22-02.39.47:559][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/PinballPlayerController.uasset
+[2018.07.22-02.39.49:467][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.39.49:492][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.39.49:492][ 95]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:39:49 PM)
+[2018.07.22-02.39.49:492][ 95]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.39.49:496][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004760s)
+[2018.07.22-02.39.49:496][ 95]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.39.49:497][ 95]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.07.22-02.39.49:497][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005525s)
+[2018.07.22-02.39.49:513][ 95]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bb7415d00, Size=520
+[2018.07.22-02.39.49:547][ 95]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.39.49:552][ 95]LogInit: FAudioDevice initialized.
+[2018.07.22-02.39.49:583][ 95]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.39.49:585][ 95]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.39.49
+[2018.07.22-02.39.49:585][ 95]LogWorld: Bringing up level for play took: 0.001290
+[2018.07.22-02.39.49:587][ 95]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.361
+[2018.07.22-02.40.01:229][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.41.45:057][477]BlueprintLog: New page: Compile BP_Plunger
+[2018.07.22-02.41.45:074][477]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b809c2800, Size=164
+[2018.07.22-02.41.45:074][477]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bbd39abc0, Size=164, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_77:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.41.45:076][477]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b809c0e80, Size=164, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.41.45:693][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset" SILENT=true
+[2018.07.22-02.41.45:727][510]LogSavePackage: Save=23.27ms
+[2018.07.22-02.41.45:727][510]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_PlungerD2433B20497A85205E3C13861ACD830D.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset'
+[2018.07.22-02.41.45:732][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset
+[2018.07.22-02.41.47:252][689]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.41.47:276][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.41.47:276][689]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:41:47 PM)
+[2018.07.22-02.41.47:276][689]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.41.47:281][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005056s)
+[2018.07.22-02.41.47:282][689]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.41.47:282][689]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2018.07.22-02.41.47:282][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005729s)
+[2018.07.22-02.41.47:300][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bbd39abc0, Size=164
+[2018.07.22-02.41.47:333][689]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.41.47:338][689]LogInit: FAudioDevice initialized.
+[2018.07.22-02.41.47:368][689]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.41.47:370][689]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.41.47
+[2018.07.22-02.41.47:370][689]LogWorld: Bringing up level for play took: 0.001336
+[2018.07.22-02.41.47:371][689]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.577
+[2018.07.22-02.42.00:900][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.42.56:823][950]BlueprintLog: New page: Compile BP_Plunger
+[2018.07.22-02.42.56:834][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b809c0e80, Size=164
+[2018.07.22-02.42.56:834][950]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b903de680, Size=164, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_83:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.42.56:836][950]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b809c0e80, Size=176, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.42.57:484][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset" SILENT=true
+[2018.07.22-02.42.57:523][987]LogSavePackage: Save=23.57ms
+[2018.07.22-02.42.57:523][987]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_PlungerF6B0C1F9475C14CC8450F1812B062CC8.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset'
+[2018.07.22-02.42.57:526][987]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset
+[2018.07.22-02.42.59:042][162]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.42.59:064][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.42.59:065][162]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:42:59 PM)
+[2018.07.22-02.42.59:065][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.42.59:070][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005159s)
+[2018.07.22-02.42.59:070][162]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.42.59:071][162]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.07.22-02.42.59:071][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.006069s)
+[2018.07.22-02.42.59:088][162]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b903de680, Size=164
+[2018.07.22-02.42.59:123][162]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.42.59:128][162]LogInit: FAudioDevice initialized.
+[2018.07.22-02.42.59:159][162]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.42.59:161][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.42.59
+[2018.07.22-02.42.59:161][162]LogWorld: Bringing up level for play took: 0.001249
+[2018.07.22-02.42.59:162][162]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.786
+[2018.07.22-02.43.06:435][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.43.31:034][966]BlueprintLog: New page: Compile BP_Plunger
+[2018.07.22-02.43.31:045][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b809c0e80, Size=176
+[2018.07.22-02.43.31:045][966]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bfcdf9780, Size=176, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_89:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.43.31:047][966]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bfcdfaec0, Size=164, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.43.31:490][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset" SILENT=true
+[2018.07.22-02.43.31:523][979]LogSavePackage: Save=24.67ms
+[2018.07.22-02.43.31:523][979]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_PlungerFD6DAA8147B929A72A2B2BA9E27824C8.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset'
+[2018.07.22-02.43.31:524][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset
+[2018.07.22-02.43.32:831][134]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.43.32:854][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.43.32:854][134]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:43:32 PM)
+[2018.07.22-02.43.32:854][134]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.43.32:859][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004936s)
+[2018.07.22-02.43.32:859][134]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.43.32:860][134]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.07.22-02.43.32:860][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005640s)
+[2018.07.22-02.43.32:877][134]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bfcdf9780, Size=176
+[2018.07.22-02.43.32:912][134]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.43.32:917][134]LogInit: FAudioDevice initialized.
+[2018.07.22-02.43.32:952][134]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.43.32:954][134]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.43.32
+[2018.07.22-02.43.32:954][134]LogWorld: Bringing up level for play took: 0.001423
+[2018.07.22-02.43.32:955][134]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap 1.007
+[2018.07.22-02.43.40:025][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.45.08:329][495]BlueprintLog: New page: Compile BP_Plunger
+[2018.07.22-02.45.08:339][495]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bfcdfaec0, Size=164
+[2018.07.22-02.45.08:339][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b809c25c0, Size=164, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_95:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.45.08:341][495]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b8e9e4640, Size=164, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.45.08:970][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset" SILENT=true
+[2018.07.22-02.45.09:006][530]LogSavePackage: Save=23.33ms
+[2018.07.22-02.45.09:006][530]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger8BBEC7614BA7C6A9C3390C9969A13C1F.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset'
+[2018.07.22-02.45.09:008][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset
+[2018.07.22-02.45.24:820][419]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.45.24:842][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.45.24:842][419]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:45:24 PM)
+[2018.07.22-02.45.24:842][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.45.24:847][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004608s)
+[2018.07.22-02.45.24:847][419]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.45.24:847][419]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2018.07.22-02.45.24:848][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005350s)
+[2018.07.22-02.45.24:865][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b809c25c0, Size=164
+[2018.07.22-02.45.24:898][419]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.45.24:903][419]LogInit: FAudioDevice initialized.
+[2018.07.22-02.45.24:935][419]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.45.24:938][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.45.24
+[2018.07.22-02.45.24:938][419]LogWorld: Bringing up level for play took: 0.001344
+[2018.07.22-02.45.24:939][419]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap 0.991
+[2018.07.22-02.48.09:343][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.50.21:531][ 86]BlueprintLog: New page: Compile BP_Plunger
+[2018.07.22-02.50.21:545][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b8e9e4640, Size=164
+[2018.07.22-02.50.21:545][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c125377c0, Size=164, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_101:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.50.21:547][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b8e9e6740, Size=188, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.50.22:191][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset" SILENT=true
+[2018.07.22-02.50.22:233][122]LogSavePackage: Save=26.95ms
+[2018.07.22-02.50.22:233][122]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger9286F5F945119335692ADFA7A99F08C3.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset'
+[2018.07.22-02.50.22:236][122]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset
+[2018.07.22-02.50.23:621][279]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.50.23:646][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.50.23:646][279]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:50:23 PM)
+[2018.07.22-02.50.23:646][279]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.50.23:651][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005021s)
+[2018.07.22-02.50.23:651][279]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.50.23:652][279]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.07.22-02.50.23:652][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005899s)
+[2018.07.22-02.50.23:670][279]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c125377c0, Size=164
+[2018.07.22-02.50.23:704][279]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.50.23:709][279]LogInit: FAudioDevice initialized.
+[2018.07.22-02.50.23:739][279]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.50.23:741][279]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.50.23
+[2018.07.22-02.50.23:741][279]LogWorld: Bringing up level for play took: 0.001498
+[2018.07.22-02.50.23:742][279]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.206
+[2018.07.22-02.50.33:542][429]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.07.22-02.50.37:147][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.50.37:254][843]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.50.37:272][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.50.37:272][843]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:50:37 PM)
+[2018.07.22-02.50.37:272][843]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.50.37:277][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004919s)
+[2018.07.22-02.50.37:278][843]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.50.37:278][843]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.07.22-02.50.37:278][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005590s)
+[2018.07.22-02.50.37:354][843]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.50.37:359][843]LogInit: FAudioDevice initialized.
+[2018.07.22-02.50.37:394][843]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.50.37:396][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.50.37
+[2018.07.22-02.50.37:396][843]LogWorld: Bringing up level for play took: 0.001255
+[2018.07.22-02.50.37:397][843]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.551
+[2018.07.22-02.50.46:074][872]Cmd: SELECT NONE
+[2018.07.22-02.50.47:899][ 75]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.07.22-02.50.51:542][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.50.51:650][475]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.50.51:666][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.50.51:666][475]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:50:51 PM)
+[2018.07.22-02.50.51:666][475]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.50.51:670][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004389s)
+[2018.07.22-02.50.51:671][475]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.50.51:671][475]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2018.07.22-02.50.51:671][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005012s)
+[2018.07.22-02.50.51:746][475]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.50.51:750][475]LogInit: FAudioDevice initialized.
+[2018.07.22-02.50.51:786][475]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.50.51:788][475]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.50.51
+[2018.07.22-02.50.51:788][475]LogWorld: Bringing up level for play took: 0.001132
+[2018.07.22-02.50.51:789][475]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.159
+[2018.07.22-02.50.56:876][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.22-02.50.57:676][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.50.57:775][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.50.57:793][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.50.57:793][178]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:50:57 PM)
+[2018.07.22-02.50.57:793][178]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.50.57:797][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004667s)
+[2018.07.22-02.50.57:798][178]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.50.57:798][178]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.07.22-02.50.57:798][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005385s)
+[2018.07.22-02.50.57:848][178]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.50.57:853][178]LogInit: FAudioDevice initialized.
+[2018.07.22-02.50.57:883][178]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.50.57:886][178]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.50.57
+[2018.07.22-02.50.57:886][178]LogWorld: Bringing up level for play took: 0.001331
+[2018.07.22-02.50.57:887][178]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.062
+[2018.07.22-02.51.09:027][ 76]Cmd: SELECT NONE
+[2018.07.22-02.51.09:402][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.52.24:479][ 57]BlueprintLog: New page: Compile BP_Plunger
+[2018.07.22-02.52.24:489][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b8e9e6740, Size=188
+[2018.07.22-02.52.24:489][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bfcdfdf00, Size=188, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_107:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.52.24:491][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b8e9e5a80, Size=164, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.52.25:150][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset" SILENT=true
+[2018.07.22-02.52.25:183][ 97]LogSavePackage: Save=22.60ms
+[2018.07.22-02.52.25:183][ 97]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger2168A02348E3C68550E6A08C9C57F886.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset'
+[2018.07.22-02.52.25:185][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset
+[2018.07.22-02.52.27:164][333]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.52.27:187][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.52.27:187][333]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:52:27 PM)
+[2018.07.22-02.52.27:187][333]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.52.27:192][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004801s)
+[2018.07.22-02.52.27:193][333]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.52.27:193][333]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.07.22-02.52.27:193][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005547s)
+[2018.07.22-02.52.27:210][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bfcdfdf00, Size=188
+[2018.07.22-02.52.27:244][333]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.52.27:249][333]LogInit: FAudioDevice initialized.
+[2018.07.22-02.52.27:282][333]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.52.27:284][333]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.52.27
+[2018.07.22-02.52.27:285][333]LogWorld: Bringing up level for play took: 0.001620
+[2018.07.22-02.52.27:285][333]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.663
+[2018.07.22-02.52.28:565][485]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.28:974][534]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.29:165][557]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.29:324][576]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.33:938][ 97]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.07.22-02.52.39:137][690]Cmd: SELECT NONE
+[2018.07.22-02.52.40:240][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.52.40:331][830]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.52.40:347][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.52.40:347][830]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:52:40 PM)
+[2018.07.22-02.52.40:347][830]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.52.40:352][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004845s)
+[2018.07.22-02.52.40:353][830]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.52.40:353][830]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.07.22-02.52.40:353][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.005643s)
+[2018.07.22-02.52.40:405][830]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.52.40:410][830]LogInit: FAudioDevice initialized.
+[2018.07.22-02.52.40:443][830]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.52.40:445][830]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.52.40
+[2018.07.22-02.52.40:445][830]LogWorld: Bringing up level for play took: 0.001554
+[2018.07.22-02.52.40:446][830]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap 0.499
+[2018.07.22-02.52.41:013][896]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.41:338][935]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.41:514][956]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.42:097][ 26]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.43:180][156]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.43:747][224]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.43:989][253]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.44:214][280]LogScriptCore: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2018.07.22-02.52.45:611][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.52.54:902][541]BlueprintLog: New page: Compile BP_Plunger
+[2018.07.22-02.52.54:912][541]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b8e9e5a80, Size=164
+[2018.07.22-02.52.54:912][541]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014bbd39b940, Size=164, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_113:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.52.54:913][541]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014b8e9e6680, Size=164, Default__BP_Plunger_C Function /Game/blueprints/BP_Plunger.BP_Plunger_C:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.52.55:279][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset" SILENT=true
+[2018.07.22-02.52.55:310][544]LogSavePackage: Save=22.68ms
+[2018.07.22-02.52.55:310][544]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_PlungerD11E6F84483CFC329EB4E5A0409016B5.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset'
+[2018.07.22-02.52.55:312][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger.uasset
+[2018.07.22-02.52.56:392][672]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.52.56:414][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.52.56:414][672]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:52:56 PM)
+[2018.07.22-02.52.56:414][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.52.56:420][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005403s)
+[2018.07.22-02.52.56:420][672]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.52.56:421][672]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2018.07.22-02.52.56:421][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.006053s)
+[2018.07.22-02.52.56:438][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bbd39b940, Size=164
+[2018.07.22-02.52.56:472][672]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.52.56:476][672]LogInit: FAudioDevice initialized.
+[2018.07.22-02.52.56:510][672]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.52.56:513][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.52.56
+[2018.07.22-02.52.56:513][672]LogWorld: Bringing up level for play took: 0.001599
+[2018.07.22-02.52.56:514][672]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap 0.566
+[2018.07.22-02.53.07:138][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.54.45:064][345]LogSavePackage: Save=46.81ms
+[2018.07.22-02.54.45:064][345]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/PinballDemoMap_Auto2DF50A5E74FB87DA174F8CD95E83EAD51.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballDemoMap_Auto2.umap'
+[2018.07.22-02.54.45:065][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballDemoMap_Auto2.umap
+[2018.07.22-02.54.45:068][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PinballDemoMap' took 0.087
+[2018.07.22-02.54.45:068][345]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.087
+[2018.07.22-02.54.45:071][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/BP_Plunger] ([1] browsable assets)...
+[2018.07.22-02.54.45:071][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_Plunger]
+[2018.07.22-02.54.45:106][345]LogSavePackage: Save=19.51ms
+[2018.07.22-02.54.45:106][345]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger_Auto2A3F445DC4BFE3B819505DBB52DA72892.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/blueprints/BP_Plunger_Auto2.uasset'
+[2018.07.22-02.54.45:107][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/blueprints/BP_Plunger_Auto2.uasset
+[2018.07.22-02.54.45:107][345]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.07.22-02.57.07:708][583]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.07.22-02.57.23:993][446]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985b410, Size=4, Default__SKEL_BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.SKEL_BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.23:997][446]LogBlueprint: Warning: [BP_Plunger1] 'PlungerMesh' variable not found. Base class was probably changed. /Game/blueprints/BP_Plunger1.BP_Plunger1
+[2018.07.22-02.57.23:997][446]LogBlueprint: Warning: [BP_Plunger1] 'PlungerMesh' variable not found. Base class was probably changed. /Game/blueprints/BP_Plunger1.BP_Plunger1
+[2018.07.22-02.57.23:997][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985b410, Size=4
+[2018.07.22-02.57.23:997][446]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985b410, Size=4, Default__SKEL_BP_Plunger1_C Function /Engine/Transient.REINST_SKEL_BP_Plunger1_C_121:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.23:999][446]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985b260, Size=4, Default__SKEL_BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.SKEL_BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.28:312][930]BlueprintLog: New page: Compile BP_Plunger1
+[2018.07.22-02.57.28:316][930]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985b260, Size=4
+[2018.07.22-02.57.28:316][930]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985b260, Size=4, Default__SKEL_BP_Plunger1_C Function /Engine/Transient.REINST_SKEL_BP_Plunger1_C_123:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.28:322][930]LogBlueprint: Warning: [Compiler BP_Plunger1] Could not find a variable named "PlungerMesh" in 'BP_Plunger1_C'.
+Make sure 'BP_Plunger1_C' has been compiled for  Get PlungerMesh
+[2018.07.22-02.57.28:322][930]LogBlueprint: Warning: [Compiler BP_Plunger1] Could not find a variable named "PlungerMesh" in 'BP_Plunger1_C'.
+Make sure 'BP_Plunger1_C' has been compiled for  Get PlungerMesh
+[2018.07.22-02.57.28:323][930]LogBlueprint: Error: [Compiler BP_Plunger1] The property associated with  Plunger Mesh  could not be found
+[2018.07.22-02.57.28:323][930]LogBlueprint: Error: [Compiler BP_Plunger1] The property associated with  Plunger Mesh  could not be found
+[2018.07.22-02.57.28:323][930]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c4846e680, Size=176, Default__BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.28:414][930]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985b410, Size=4
+[2018.07.22-02.57.28:414][930]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985b260, Size=4
+[2018.07.22-02.57.28:423][930]LogBlueprint: Warning: [Compiler BP_Plunger1] [1810.21] Compile of BP_Plunger1 failed. 2 Fatal Issue(s) 2 Warning(s) [in 111 ms] (/Game/blueprints/BP_Plunger1.BP_Plunger1)
+[2018.07.22-02.57.39:976][271]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c29858a88, Size=4, Default__SKEL_BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.SKEL_BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.54:698][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.57.54:783][677]BlueprintLog: New page: Compile BP_Plunger1
+[2018.07.22-02.57.54:787][677]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c29858a88, Size=4
+[2018.07.22-02.57.54:787][677]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c29858a88, Size=4, Default__SKEL_BP_Plunger1_C Function /Engine/Transient.REINST_SKEL_BP_Plunger1_C_129:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.54:791][677]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c4846e680, Size=176
+[2018.07.22-02.57.54:791][677]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c1f751480, Size=176, BP_Plunger1_C_27 Function /Engine/Transient.REINST_BP_Plunger1_C_131:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.54:793][677]LogBlueprint: Warning: [Compiler BP_Plunger1] Could not find a variable named "PlungerMesh" in 'BP_Plunger1_C'.
+Make sure 'BP_Plunger1_C' has been compiled for  Get PlungerMesh
+[2018.07.22-02.57.54:793][677]LogBlueprint: Warning: [Compiler BP_Plunger1] Could not find a variable named "PlungerMesh" in 'BP_Plunger1_C'.
+Make sure 'BP_Plunger1_C' has been compiled for  Get PlungerMesh
+[2018.07.22-02.57.54:794][677]LogBlueprint: Error: [Compiler BP_Plunger1] The property associated with  Plunger Mesh  could not be found
+[2018.07.22-02.57.54:794][677]LogBlueprint: Error: [Compiler BP_Plunger1] The property associated with  Plunger Mesh  could not be found
+[2018.07.22-02.57.54:794][677]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c1f752bc0, Size=176, Default__BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.57.54:877][677]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c29858a88, Size=4
+[2018.07.22-02.57.54:887][677]LogBlueprint: Warning: [Compiler BP_Plunger1] [1836.67] Compile of BP_Plunger1 failed. 2 Fatal Issue(s) 2 Warning(s) [in 103 ms] (/Game/blueprints/BP_Plunger1.BP_Plunger1)
+[2018.07.22-02.57.55:526][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger1" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset" SILENT=true
+[2018.07.22-02.57.55:552][733]LogSavePackage: Save=23.93ms
+[2018.07.22-02.57.55:552][733]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger1BDDD767F47A2E7A241C883AC1C1C83B2.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset'
+[2018.07.22-02.57.55:554][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset
+[2018.07.22-02.57.59:942][159]LogSlate: Window 'BP_Plunger1' being destroyed
+[2018.07.22-02.58.09:878][349]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985b270, Size=4, Default__SKEL_BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.SKEL_BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.12:558][666]BlueprintLog: New page: Compile BP_Plunger1
+[2018.07.22-02.58.12:561][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985b270, Size=4
+[2018.07.22-02.58.12:561][666]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985b270, Size=4, Default__SKEL_BP_Plunger1_C Function /Engine/Transient.REINST_SKEL_BP_Plunger1_C_135:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.12:565][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c1f752bc0, Size=176
+[2018.07.22-02.58.12:565][666]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c11baf040, Size=176, Default__BP_Plunger1_C Function /Engine/Transient.REINST_BP_Plunger1_C_137:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.12:566][666]LogBlueprint: Warning: [Compiler BP_Plunger1] Could not find a variable named "PlungerMesh" in 'BP_Plunger1_C'.
+Make sure 'BP_Plunger1_C' has been compiled for  Get PlungerMesh
+[2018.07.22-02.58.12:566][666]LogBlueprint: Warning: [Compiler BP_Plunger1] Could not find a variable named "PlungerMesh" in 'BP_Plunger1_C'.
+Make sure 'BP_Plunger1_C' has been compiled for  Get PlungerMesh
+[2018.07.22-02.58.12:567][666]LogBlueprint: Error: [Compiler BP_Plunger1] The property associated with  Plunger Mesh  could not be found
+[2018.07.22-02.58.12:567][666]LogBlueprint: Error: [Compiler BP_Plunger1] The property associated with  Plunger Mesh  could not be found
+[2018.07.22-02.58.12:567][666]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c11bae500, Size=176, Default__BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.12:649][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c1f751480, Size=176
+[2018.07.22-02.58.12:650][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985b270, Size=4
+[2018.07.22-02.58.12:655][666]LogBlueprint: Warning: [Compiler BP_Plunger1] [1854.44] Compile of BP_Plunger1 failed. 2 Fatal Issue(s) 2 Warning(s) [in 97 ms] (/Game/blueprints/BP_Plunger1.BP_Plunger1)
+[2018.07.22-02.58.13:266][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger1" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset" SILENT=true
+[2018.07.22-02.58.13:305][734]LogSavePackage: Save=21.62ms
+[2018.07.22-02.58.13:305][734]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger164C4EAAE47F96271F57D2BA66D240B04.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset'
+[2018.07.22-02.58.13:307][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset
+[2018.07.22-02.58.30:392][778]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c298598d8, Size=4, Default__SKEL_BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.SKEL_BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.39:119][813]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c298598d8, Size=4
+[2018.07.22-02.58.39:119][813]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c298598d8, Size=4, Default__SKEL_BP_Plunger1_C Function /Engine/Transient.REINST_SKEL_BP_Plunger1_C_141:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.39:121][813]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985a4d0, Size=4, Default__SKEL_BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.SKEL_BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.40:690][994]BlueprintLog: New page: Compile BP_Plunger1
+[2018.07.22-02.58.40:693][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985a4d0, Size=4
+[2018.07.22-02.58.40:693][994]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c2985a4d0, Size=4, Default__SKEL_BP_Plunger1_C Function /Engine/Transient.REINST_SKEL_BP_Plunger1_C_143:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.40:696][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c11bae500, Size=176
+[2018.07.22-02.58.40:696][994]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c496f53c0, Size=176, BP_Plunger1_C_50 Function /Engine/Transient.REINST_BP_Plunger1_C_145:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.40:698][994]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c496f6740, Size=164, Default__BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.40:913][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c11baf040, Size=176
+[2018.07.22-02.58.40:913][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c2985a4d0, Size=4
+[2018.07.22-02.58.40:913][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c298598d8, Size=4
+[2018.07.22-02.58.41:545][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger1" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset" SILENT=true
+[2018.07.22-02.58.41:576][ 60]LogSavePackage: Save=22.19ms
+[2018.07.22-02.58.41:576][ 60]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger14BBA05E84F9D58C82659A09CD80D9661.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset'
+[2018.07.22-02.58.41:578][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset
+[2018.07.22-02.58.47:639][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.58.50:283][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-02.58.54:980][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.58.55:080][663]BlueprintLog: New page: Compile BP_Plunger1
+[2018.07.22-02.58.55:086][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c496f6740, Size=164
+[2018.07.22-02.58.55:086][663]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c100f9180, Size=164, Default__BP_Plunger1_C Function /Engine/Transient.REINST_BP_Plunger1_C_149:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.55:088][663]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c100fb880, Size=164, Default__BP_Plunger1_C Function /Game/blueprints/BP_Plunger1.BP_Plunger1_C:ExecuteUbergraph_BP_Plunger1
+[2018.07.22-02.58.55:302][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c496f53c0, Size=176
+[2018.07.22-02.58.55:568][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Plunger1" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset" SILENT=true
+[2018.07.22-02.58.55:600][685]LogSavePackage: Save=22.94ms
+[2018.07.22-02.58.55:600][685]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/BP_Plunger1542D621B4A759D47E1D9B9B4C9900008.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset'
+[2018.07.22-02.58.55:603][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/blueprints/BP_Plunger1.uasset
+[2018.07.22-02.58.55:973][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.58.56:066][740]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-02.58.57:762][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c100f9180, Size=164
+[2018.07.22-02.59.01:398][933]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.22-02.59.01:421][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014b8e9e6680, Size=164
+[2018.07.22-02.59.01:421][933]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014c496f5840, Size=164, Default__BP_Plunger_C Function /Engine/Transient.REINST_BP_Plunger_C_151:ExecuteUbergraph_BP_Plunger
+[2018.07.22-02.59.01:871][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24376630, Size=4
+[2018.07.22-02.59.01:871][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c12f36508, Size=4
+[2018.07.22-02.59.01:871][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24377148, Size=4
+[2018.07.22-02.59.01:871][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c12f376f8, Size=4
+[2018.07.22-02.59.01:871][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c230736a0, Size=4
+[2018.07.22-02.59.01:871][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014bc3242d18, Size=4
+[2018.07.22-02.59.01:872][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24377440, Size=4
+[2018.07.22-02.59.01:872][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c18261010, Size=4
+[2018.07.22-02.59.01:872][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24375488, Size=4
+[2018.07.22-02.59.01:872][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c1038be10, Size=4
+[2018.07.22-02.59.01:872][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c24376840, Size=4
+[2018.07.22-02.59.01:977][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014c496f5840, Size=164
+[2018.07.22-02.59.07:968][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.59.46:061][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-02.59.46:280][140]LogSavePackage: Save=46.78ms
+[2018.07.22-02.59.46:280][140]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/PinballDemoMap309707C34B905872C3615186F051DFD0.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Maps/PinballDemoMap.umap'
+[2018.07.22-02.59.46:282][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Maps/PinballDemoMap.umap
+[2018.07.22-02.59.46:312][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballDemoMap_BuiltData" FILE="../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Maps/PinballDemoMap_BuiltData.uasset" SILENT=true
+[2018.07.22-02.59.46:370][140]LogSavePackage: Save=44.97ms
+[2018.07.22-02.59.46:370][140]LogSavePackage: Moving '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Saved/PinballDemoMap_BuiltData354363DB419CE18FE79313B15779F849.tmp' to '../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Maps/PinballDemoMap_BuiltData.uasset'
+[2018.07.22-02.59.46:371][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/reth1nk/Documents/Unreal Projects/Pinball/Content/Maps/PinballDemoMap_BuiltData.uasset
+[2018.07.22-02.59.47:200][238]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-02.59.47:225][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-02.59.47:225][238]PIE: New page: PIE session: PinballDemoMap (Jul 21, 2018, 12:59:47 PM)
+[2018.07.22-02.59.47:226][238]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballDemoMap
+[2018.07.22-02.59.47:231][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005052s)
+[2018.07.22-02.59.47:231][238]LogAIModule: Creating AISystem for world PinballDemoMap
+[2018.07.22-02.59.47:232][238]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.07.22-02.59.47:232][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballDemoMap.PinballDemoMap to /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap (0.006011s)
+[2018.07.22-02.59.47:282][238]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-02.59.47:288][238]LogInit: FAudioDevice initialized.
+[2018.07.22-02.59.47:316][238]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.22-02.59.47:319][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballDemoMap.PinballDemoMap up for play (max tick rate 0) at 2018.07.21-19.59.47
+[2018.07.22-02.59.47:319][238]LogWorld: Bringing up level for play took: 0.001628
+[2018.07.22-02.59.47:320][238]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController'!
+[2018.07.22-02.59.47:320][238]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PinballDemoMap -0.628
+[2018.07.22-02.59.53:995][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-03.00.22:614][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-03.00.27:250][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-03.00.31:899][418]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.268 s
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: 
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor\SPropertyEditorAsset.cpp] [Line: 1183]
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: Property (ObjectProperty /Game/blueprints/PinballPlayerController.PinballPlayerController_C:Plunger) is not an object or interface class
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: Stack: 
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x000000008B87B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x000000008B5DAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x000000008B5EECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x00000000850652CD UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x000000008502B2DE UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084DD358D UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084E31A1C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084E2FF5C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084DD4E31 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084E9C290 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084E807E7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084E80603 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084F470C4 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084DD20A0 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084E64F8F UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084F92410 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084EF46A0 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084EF6864 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084F614CE UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084F5F3DA UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084F69949 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084F6C418 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084FA9B67 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x00000000AE708418 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000084FCAEF2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8324D UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:899][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x00000000AE6C9417 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x00000000AE6C91E0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x00000000AE6C91E0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x00000000AE6CD731 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x00000000AE6C91E0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x00000000AE6CD731 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:900][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B83C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B8333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B815B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: [Callstack] 0x0000000098B81CCA UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.22-03.00.31:901][418]LogOutputDevice: Error: 
+[2018.07.22-03.00.31:912][418]LogStats:                SubmitErrorReport -  0.000 s
